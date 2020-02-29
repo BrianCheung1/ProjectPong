@@ -61,7 +61,7 @@ void Draw(){
 
 }
 void Input(){
-    switch(getchar(){
+    switch(getchar()){
         case 'a':
             x++;
             dir = LEFT;
